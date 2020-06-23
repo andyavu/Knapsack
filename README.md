@@ -7,4 +7,4 @@ Solves the Knapsack problem using:
 
 • Branch-and-Bound
 
-Statistics are also provided to see which method is the most efficient
+A report regarding the total profit, which items the knapsack contains and does not contain, and how many nodes were checked are outputted to the console.
